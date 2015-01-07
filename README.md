@@ -22,7 +22,6 @@ Add 'ui.select' into your app declaration:
 
     app = angular.module('MyApp', ["ui.select"])
 
-
 ## Usage
 
 See https://github.com/angular-ui/ui-select
